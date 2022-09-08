@@ -1,4 +1,4 @@
-# The Wine Guide
+# The Wine Guide - A VueJs Project
 
 ## Project setup
 ```
