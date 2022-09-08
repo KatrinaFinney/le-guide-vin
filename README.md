@@ -1,4 +1,4 @@
-# vue-sites
+# The Wine Guide - A VueJs Project
 
 ## Project setup
 ```
